@@ -10,4 +10,5 @@ struct constants {
     static let addTitle = "add To do"
     static let addAction = "Add Item"
     static let cancelAction = "Cancel"
+    static let TodoListArray = "TodoListArray"
 }
